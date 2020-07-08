@@ -49,6 +49,6 @@ Le navi oceanografiche italiane che hanno acquisito dati ecometrici utilizzati d
 
 [...]
 
-## Licenza
+## Licenze
 
-[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [Visualizza licenza](https://github.com/pcm-dpc/MaGIC/blob/master/LICENSE)
+[Licenze applicate](https://github.com/pcm-dpc/MaGIC/blob/master/LICENSE)
