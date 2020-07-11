@@ -4,9 +4,6 @@
 
 I file in questa directory sono stati zippati per una questione di dimensione e per non utilizzare git lfs.<br><br>
 Contenuto:<br>
-- grid_IIM_Sardegna.tfw
-- grid_IIM_Sardegna.tiff
-- grid_IIM_Sicilia_Calabria.tfw
-- grid_IIM_Sicilia_Calabria.tiff
-- grid_IIM_Tirreno_Adriatico_Ionio.tfw
-- grid_IIM_Tirreno_Adriatico_Ionio.tiff
+- grid_IIM_Sardegna
+- grid_IIM_Sicilia_Calabria
+- grid_IIM_Tirreno_Adriatico_Ionio
