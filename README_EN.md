@@ -2,4 +2,6 @@
 
 # MaGIC - Marine Geohazards along the Italian Coasts
 
-⚠️ ** NOTICE ** The README in English is being translated!
+⚠️ ** NOTICE *** 
+xy
+The README in English is being translated!
