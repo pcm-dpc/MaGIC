@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/pcm-dpc/MaGIC/master/dpc-magic-logo.png" alt="MaGIC" data-canonical-src="https://raw.githubusercontent.com/pcm-dpc/MaGIC/master/dpc-magic-logo.png" width="400" />
 
-# Progetto MaGIC - Marine Geohazards along the Italian Coasts
+# MaGIC - Marine Geohazards along the Italian Coasts
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/MaGIC)](https://github.com/pcm-dpc/MaGIC/commits/master)
 
-<b>MaGIC<b> è un progetto nazionale di durata quinquennale, avviato nel 2007, con l'obiettivo di definire la pericolosità dei fondali dei mari italiani, per migliorare l'attività di mitigazione del rischio e la gestione di situazioni di emergenza. Il progetto ha analizzato le aree sottomarine antistanti i tratti di costa dell'Italia peninsulare centro-meridionale, della Sicilia, della Sardegna e della Liguria.<br><br>
+<b>MaGIC</b> è un progetto nazionale di durata quinquennale, avviato nel 2007, con l'obiettivo di definire la pericolosità dei fondali dei mari italiani, per migliorare l'attività di mitigazione del rischio e la gestione di situazioni di emergenza. Il progetto ha analizzato le aree sottomarine antistanti i tratti di costa dell'Italia peninsulare centro-meridionale, della Sicilia, della Sardegna e della Liguria.<br><br>
 Finanziato dal Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri, nell'ambito di un Accordo di Programma Quadro con il Consiglio Nazionale delle Ricerche - CNR, il progetto MaGIC ha coinvolto la comunità dei geologi marini italiani afferenti a: istituti del CNR; Università rappresentate dal Consorzio Nazionale Interuniversitario per le Scienze del Mare - CoNISMa; Istituto Nazionale di Oceanografia e di Geofisica Sperimentale – OGS; e a un'unità di ricerca dell'Università di Nizza, per una sperimentazione del progetto anche in acque territoriali francesi.<br><br>
 Nell'ambito del progetto sono state realizzate 72 carte, a scala 1:50.000, degli <b>elementi di pericolosità presenti nei fondali dei mari</b> italiani antistanti le coste oggetto di analisi. Ogni carta è stata georeferenziata e organizzata in quattro livelli informativi, a dettaglio crescente: i <b>domini fisiografici</b>, che rappresentano il contesto geologico e fisiografico dell'area in esame; le <b>unità morfologiche</b>, all'interno delle quali si distinguono gli <b>elementi morfo-batimetrici</b> e i <b>punti di criticità</b>, cioè le aree che meritano una maggiore attenzione.<br><br>
 Per affinare, approfondire e utilizzare i dati prodotti dal progetto MaGIC, nel 2015 il Dipartimento della Protezione Civile ha dato avvio alla prosecuzione del progetto – denominata "MaGIC 2", della durata di un anno. Hanno partecipato alla ricerca il gruppo di lavoro che aveva collaborato per MaGIC, sotto il coordinamento del CNR-IGAG.<br><br>
@@ -15,7 +15,8 @@ Il progetto MaGIC ha esaminato i principali georischi marini presenti nei fondal
 - Le nicchie di frana e i segni di incipiente instabilità sottomarina;
 - La morfologia del fondale;
 - Le strutture legate alla fuoriuscita di fluidi dal sottofondo.
-<br><br>
+
+
 Lo studio di tali elementi è stato importante perché alcuni lineamenti possono presentare particolari criticità: le testate dei canyon, ad esempio, evolvendo retrogressivamente, possono arrivare a coinvolgere la costa causando frane subaeree o il collasso di strutture portuali, come è successo nel porto di Gioia Tauro nel 1977. Non è neanche da sottovalutare il rischio legato alla generazione di maremoti, come quello avvenuto a Stromboli nel 2002, causato da una frana sottomarina.
 <br><br>
 Il progetto MaGIC 2, sfruttando la mappatura dei lineamenti di pericolosità effettuata nell'ambito di MaGIC, ha utilizzato la distribuzione spaziale e le principali caratteristiche morfometriche (dimensioni, volumi, pendenze) dei lineamenti, per evidenziare le aree meritorie di ulteriori approfondimenti, in quanto potenzialmente pericolose, e classificare la suscettibilità degli antistanti tratti costieri ai principali georischi marini. 
