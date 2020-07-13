@@ -3,6 +3,20 @@
 # MaGIC - Marine Geohazards along the Italian Coasts
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/MaGIC)](https://github.com/pcm-dpc/MaGIC/commits/master)
 
+## Indice
+- [MaGIC - Marine Geohazards along the Italian Coasts](#magic---marine-geohazards-along-the-italian-coasts)
+  * [Oggetto della ricerca](#oggetto-della-ricerca)
+  * [Finalità di protezione civile](#finalit--di-protezione-civile)
+  * [Tecniche di rilievo dei dati batimetrici](#tecniche-di-rilievo-dei-dati-batimetrici)
+  * [Origine del progetto](#origine-del-progetto)
+  * [Visualizza e scarica i dati prodotti](#visualizza-e-scarica-i-dati-prodotti)
+    + [MaGIC 1](#magic-1)
+    + [MaGIC 2](#magic-2)
+    + [Approfondimenti](#approfondimenti)
+  * [Licenze](#licenze)
+
+ ## MaGIC
+
 <b>MaGIC</b> è un progetto nazionale di durata quinquennale, avviato nel 2007, con l'obiettivo di definire la pericolosità dei fondali dei mari italiani, per migliorare l'attività di mitigazione del rischio e la gestione di situazioni di emergenza. Il progetto ha analizzato le aree sottomarine antistanti i tratti di costa dell'Italia peninsulare centro-meridionale, della Sicilia, della Sardegna e della Liguria.<br><br>
 Finanziato dal Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri, nell'ambito di un Accordo di Programma Quadro con il Consiglio Nazionale delle Ricerche - CNR, il progetto MaGIC ha coinvolto la comunità dei geologi marini italiani afferenti a: istituti del CNR; Università rappresentate dal Consorzio Nazionale Interuniversitario per le Scienze del Mare - CoNISMa; Istituto Nazionale di Oceanografia e di Geofisica Sperimentale – OGS; e a un'unità di ricerca dell'Università di Nizza, per una sperimentazione del progetto anche in acque territoriali francesi.<br><br>
 Nell'ambito del progetto sono state realizzate 72 carte, a scala 1:50.000, degli <b>elementi di pericolosità presenti nei fondali dei mari</b> italiani antistanti le coste oggetto di analisi. Ogni carta è stata georeferenziata e organizzata in quattro livelli informativi, a dettaglio crescente: i <b>domini fisiografici</b>, che rappresentano il contesto geologico e fisiografico dell'area in esame; le <b>unità morfologiche</b>, all'interno delle quali si distinguono gli <b>elementi morfo-batimetrici</b> e i <b>punti di criticità</b>, cioè le aree che meritano una maggiore attenzione.<br><br>
