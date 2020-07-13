@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pcm-dpc/MaGIC/master/dpc-magic-logo.png" alt="MaGIC" data-canonical-src="https://raw.githubusercontent.com/pcm-dpc/MaGIC/master/dpc-magic-logo.png" width="400" />
+<img src="https://raw.githubusercontent.com/pcm-dpc/MaGIC/master/dpc-magic-logo.png" alt="MaGIC" data-canonical-src="https://raw.githubusercontent.com/pcm-dpc/MaGIC/master/dpc-magic-logo.png" width="600" />
 
 # MaGIC - Marine Geohazards along the Italian Coasts
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/MaGIC)](https://github.com/pcm-dpc/MaGIC/commits/master)
