@@ -68,7 +68,7 @@ Completano la serie dei prodotti disponibili, i "Geotiff" derivati dai dati forn
 Sono infine disponibili la "<b>Guida nomenclaturale</b>" per il progetto MaGIC e i documenti metodologici per l'estensione MaGIC 2.
 <br><br>
 ### Approfondimenti
-Per approfondimenti, è possibile consultare all'indirizzo [http://dati.protezionecivile.it/geoportalDPC/catalog/main/home.page](http://dati.protezionecivile.it/geoportalDPC/catalog/main/home.page) i <b>metadati</b> che descrivono e contestualizzano i dati prodotti nell'ambito del progetto MaGIC. Una volta cliccato sul [link](http://dati.protezionecivile.it/geoportalDPC/catalog/main/home.page), per visualizzare i metadati specifici, sarà necessario inserire la parola "MaGIC" nella barra di ricerca.
+Per approfondimenti, è possibile consultare all'indirizzo [https://dati.protezionecivile.it/geoportalDPC/catalog/main/home.page](http://dati.protezionecivile.it/geoportalDPC/catalog/main/home.page) i <b>metadati</b> che descrivono e contestualizzano i dati prodotti nell'ambito del progetto MaGIC. Una volta cliccato sul [link](http://dati.protezionecivile.it/geoportalDPC/catalog/main/home.page), per visualizzare i metadati specifici, sarà necessario inserire la parola "MaGIC" nella barra di ricerca.
 <br><br>
 ## Licenze
 La titolarità dei file relativi ai prodotti delle due convenzioni (Magic1 e Magic2) tra il Dipartimento della protezione civile della Presidenza del Consiglio dei Ministri e l'Istituto di Geologia Ambientale e Geoingegneria del Consiglio Nazionale delle Risorse è in generale del Dipartimento della protezione civile con licenza CC BY 4.0.<br><br>
